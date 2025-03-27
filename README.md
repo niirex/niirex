@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niirex
-- 👀 I’m interested in improving my skills on data analyst
-- 🌱 I’m currently learning python.excel,
+- 👀 I’m interested in improving my skills on data scientist
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything related to data base.
 - 📫 How to reach me nii_menz@hotmail.com
 
